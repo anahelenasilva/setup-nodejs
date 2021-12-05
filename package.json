@@ -1,0 +1,31 @@
+{
+  "name": "setup-node",
+  "version": "0.0.1",
+  "description": "projeto de exemplo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://anahelenasilva@github.com/anahelenasilva/setup-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "ana helena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anahelenasilva/setup-nodejs/issues"
+  },
+  "homepage": "https://github.com/anahelenasilva/setup-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
